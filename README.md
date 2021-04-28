@@ -1,7 +1,6 @@
 - 👋 Hi, I’m siddharth sharma
 - 👀 I’m interested in codding
 - 🌱 I’m currently learning hacking
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
